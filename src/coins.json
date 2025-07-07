@@ -266,5 +266,15 @@
         "icon_url": "",
         "project_url": "https://suipad.xyz/",
         "source": "native"
-    }
+    },
+    {
+  "name": "KarenWorld",
+  "symbol": "KAREN",
+  "decimals": 9,
+  "icon_url": "https://karen-world-clean.vercel.app/assets/karen512.png",
+  "official_site": "https://karen-world-clean.vercel.app/",
+  "project_url": "https://x.com/KarenW_Official",
+  "coin_type": "0xf84a5593b0050e5ccd88a869159b0ebf66609341a9c4c40ba0d12d6df7551958::KarenWorld::KARENWORLD"
+}
+
 ]
